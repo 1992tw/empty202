@@ -1,2 +1,3 @@
-# empty202
+# New Course, New Horizons
+
 This course is designed to help students embark on new learning paths, with a focus on individual growth, exploration, and discovery.
